@@ -1,5 +1,6 @@
 import { NgModule } from "@angular/core";
 import { RouterModule, Routes } from "@angular/router";
+import { ChangeLibraryComponent } from "./pages/http-test/change-library/change-library.component";
 import { CategoriesComponent } from "./pages/categories/categories.component";
 import { MoviesInCategoryComponent } from "./pages/categories/movies-in-category/movies-in-category.component";
 import { MovieDetailsComponent } from "./pages/movies/movie-details/movie-details.component";
@@ -17,6 +18,7 @@ const routes:Routes = [
     {path: "category/:category", component:MoviesInCategoryComponent},
     {path:'years', component: YearsComponent},
     {path:"years/:year", component:MovieInYearsComponent},
+    {path:"change-library", component:ChangeLibraryComponent},
     {path:"**", component:PageNotFoundComponent}
 ]
 

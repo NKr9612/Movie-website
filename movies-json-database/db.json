@@ -210,15 +210,15 @@
       "id": 19
     },
     {
-      "country": "USA",
-      "director": "Francis Ford Coppola",
-      "category": "Drama",
-      "plot": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-      "year": "1979",
-      "title": "Apocalypse Now",
-      "imdbRating": "8.4",
-      "id": 20
+      "id": 20,
+      "country": "Poland",
+      "director": "Unknown",
+      "category": "Sci-Fi",
+      "plot": "Just Join IT",
+      "poster": null,
+      "year": "2022",
+      "title": "Developer",
+      "imdbRating": "10.0"
     },
     {
       "country": "USA",
@@ -265,17 +265,6 @@
       "id": 24
     },
     {
-      "country": "USA",
-      "director": "Quentin Tarantino",
-      "category": "Crime",
-      "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-      "year": "1994",
-      "title": "Pulp Fiction",
-      "imdbRating": "8.9",
-      "id": 25
-    },
-    {
       "country": "Italy, Spain, West Germany",
       "director": "Sergio Leone",
       "category": "Western",
@@ -320,17 +309,6 @@
       "id": 29
     },
     {
-      "country": "USA",
-      "director": "Irvin Kershner",
-      "category": "Action, Adventure, Fantasy, Sci-Fi",
-      "plot": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-      "year": "1980",
-      "title": "Star Wars: Episode V - The Empire Strikes Back",
-      "imdbRating": "8.7",
-      "id": 30
-    },
-    {
       "country": "New Zealand, USA",
       "director": "Peter Jackson",
       "category": "Adventure, Drama, Fantasy",
@@ -345,7 +323,7 @@
       "country": "USA",
       "director": "Martin Scorsese",
       "category": "Biography, Crime, Drama",
-      "plot": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+      "plot": "Nothing change",
       "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "year": "1990",
       "title": "Goodfellas",
@@ -466,7 +444,7 @@
       "country": "USA",
       "director": "Irvin Kershner",
       "category": "Action, Adventure, Fantasy, Sci-Fi",
-      "plot": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+      "plot": "Zabójca potworów musi wybrać mniejsze zło",
       "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "year": "1980",
       "title": "Star Wars: Episode V - The Empire Strikes Back",
@@ -540,15 +518,15 @@
       "id": 49
     },
     {
-      "country": "USA",
-      "director": "James Cameron",
-      "category": "Action, Sci-Fi",
-      "plot": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-      "year": "1991",
-      "title": "Terminator 2: Judgment Day",
-      "imdbRating": "8.5",
-      "id": 50
+      "id": 50,
+      "country": "Poland",
+      "director": "Marek Brodzki",
+      "category": "Fantasy",
+      "plot": "Zabójca potworów musi wybrać mniejsze zło.",
+      "poster": null,
+      "year": "2001",
+      "title": "Wiedźmin 2",
+      "imdbRating": "10.0"
     },
     {
       "country": "USA",
@@ -571,6 +549,28 @@
       "title": "Forrest Gump",
       "imdbRating": "8.8",
       "id": 53
+    },
+    {
+      "country": "Poland",
+      "director": "Marek Brodzki",
+      "category": "Fantasy",
+      "plot": "Zabójca potworów musi wybrać mniejsze zło.",
+      "poster": null,
+      "year": "2001",
+      "title": "Wiedźmin",
+      "imdbRating": "10.0",
+      "id": 54
+    },
+    {
+      "country": "Poland",
+      "director": "Marek Brodzki",
+      "category": "Fantasy",
+      "plot": "Zabójca potworów musi wybrać mniejsze zło.",
+      "poster": null,
+      "year": "2001",
+      "title": "Wiedźmin",
+      "imdbRating": "10.0",
+      "id": 55
     }
   ],
   "categories": [
@@ -628,4 +628,3 @@
     "1950"
   ]
 }
-
